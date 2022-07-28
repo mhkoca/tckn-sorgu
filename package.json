@@ -1,0 +1,30 @@
+{
+    "name": "tckn-sorgu",
+    "version": "1.0.5",
+    "description": "KPS web servislerini kullanarak TCKN sorgusu yapan fonksiyonlar içerir",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/mhkoca/tckn-sorgu.git"
+    },
+    "keywords": [
+      "tckn",
+      "sorgu",
+      "kps",
+      "kimlik",
+      "numarası",
+      "sorgulama"
+    ],
+    "author": "Muhammed Hilmi Koca",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/mhkoca/tckn-sorgu/issues"
+    },
+    "homepage": "https://github.com/mhkoca/tckn-sorgu#readme",
+    "dependencies": {
+      "soap": "^0.36.0"
+    }
+  }
