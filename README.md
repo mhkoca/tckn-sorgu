@@ -1,5 +1,5 @@
 # tckn-sorgu
-KPS web servislerini kullanarak tckn sorgusu yapan fonksiyonlar içerir
+Bu paket KPS web servislerini kullanarak tckn sorgusu yapan fonksiyonlar içerir.
 
 Parametre olarak Aşağıdaki formatta bir JSON bekliyor:
 
